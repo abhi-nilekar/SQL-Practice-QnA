@@ -1,0 +1,8 @@
+1] https://www.mysqltutorial.org/mysql-window-functions/
+2] https://www.mysqltutorial.org/mysql-window-functions/mysql-dense_rank-function/
+3] https://dev.mysql.com/doc/refman/8.0/en/window-functions-usage.html
+4] https://dev.mysql.com/doc/refman/8.0/en/window-functions.html
+
+learnings
+1] use of window functions
+2] using aggregation function such as sum as a window function
