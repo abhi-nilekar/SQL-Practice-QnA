@@ -1,0 +1,6 @@
+references
+1] https://www.youtube.com/watch?v=cBi77HIJOyQ
+
+learnings
+1] use of subquery in WHERE clause usinf IN 
+2] use of self join
