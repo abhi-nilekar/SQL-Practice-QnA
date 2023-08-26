@@ -1,0 +1,6 @@
+references
+1] https://www.youtube.com/watch?v=3xc0_XIob1M
+
+learnings
+1] use of IFNULL()
+2] using subquery in WHERE clause
