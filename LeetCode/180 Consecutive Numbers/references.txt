@@ -1,0 +1,9 @@
+References
+1]https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html
+2]https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function_lag
+3]https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function_lead
+4]https://www.geeksforgeeks.org/mysql-lead-and-lag-function/
+
+Learnings
+1] Using multiple Temporary tables to compare records
+2] Using Window Functions such as LAG() and LEAD() -> then comparing the records
