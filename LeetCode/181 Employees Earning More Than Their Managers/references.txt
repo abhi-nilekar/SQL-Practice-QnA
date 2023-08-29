@@ -1,0 +1,5 @@
+References
+1] https://www.youtube.com/watch?v=G7v7TZ3ylDI
+
+Learnings
+1] Self-Join concept and how to use it to compare records of same table
