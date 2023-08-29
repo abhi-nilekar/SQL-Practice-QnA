@@ -1,0 +1,5 @@
+References
+1] https://www.mysqltutorial.org/mysql-window-functions/mysql-dense_rank-function/
+
+Learnings
+1] use of DENSE_RANK() Window function 
