@@ -1,0 +1,7 @@
+references
+1] https://www.youtube.com/watch?v=V0-33jrJgwo
+2] https://www.youtube.com/watch?v=zbjL_cIe5Q4
+
+learnings
+1] identifying and deleting suplicate values
+2] using self join to delete the duplicate values
