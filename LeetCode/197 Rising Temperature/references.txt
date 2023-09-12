@@ -1,0 +1,11 @@
+references
+1]https://www.youtube.com/watch?v=09wjf87VRs0
+2]https://www.youtube.com/watch?v=b3LphTjCZ8o
+
+
+learnings
+1] whenever the question asks to compare rows ->> try to use self-join
+2] use of LAG() Window function
+
+
+
