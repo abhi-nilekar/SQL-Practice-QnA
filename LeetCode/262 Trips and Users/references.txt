@@ -1,0 +1,8 @@
+references
+1]https://www.youtube.com/watch?v=YpLHd4wTQPY
+2]https://www.youtube.com/watch?v=jm0LwWWPoyU
+
+learnings
+1] dont try to apply complex logic to questions to each question = think the basic logic first
+2] use of if() in SQL
+3] using sub-query properly
