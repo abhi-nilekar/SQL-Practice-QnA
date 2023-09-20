@@ -1,0 +1,6 @@
+references
+1] https://www.youtube.com/watch?v=ZL-i7o-JPi0
+
+learnings
+1] tried to apply unnecessary complex logic => think simple logic
+2] proper use of group by 
