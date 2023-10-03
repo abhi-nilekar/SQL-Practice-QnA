@@ -1,0 +1,7 @@
+references
+1] https://learnsql.com/cookbook/how-to-get-the-year-and-the-month-from-a-date-in-mysql/
+2] https://www.geeksforgeeks.org/month-function-in-mysql/
+
+learnings
+1] extracting year-month from date - in given specific format
+2] using CASE inside SUM()
