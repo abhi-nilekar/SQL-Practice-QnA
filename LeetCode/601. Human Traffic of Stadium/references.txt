@@ -1,0 +1,10 @@
+references
+1] Fredrick Mullers approach - https://www.youtube.com/watch?v=dxLYUGNKAjU
+2] Carters Approach - https://www.youtube.com/watch?v=dxLYUGNKAjU
+3] Ankit Bansals approach - https://www.youtube.com/watch?v=tDfAo7uw-3w
+
+
+Learnings
+1] how to think, brainstorm logically to build the solution
+2] One problem can be solved in multiple ways
+
